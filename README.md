@@ -340,24 +340,4 @@ The application runs in debug mode by default. For production:
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Support
-
-For support and questions:
-- Check the contact page in the application
-- Review the troubleshooting section
-- Create an issue in the repository
-
-## Future Enhancements
-
-- Email notifications
-- Payment gateway integration
-- Mobile app
-- Advanced reporting
-- Multi-language support
-- API endpoints for external integrations
-
 
